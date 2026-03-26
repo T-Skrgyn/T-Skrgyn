@@ -7,6 +7,12 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%"/>
 
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-00599C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tushar-sakargayan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tushar-sakargayan)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakargayentushar@gmail.com)
+
 </div>
 
 ---
